@@ -1,11 +1,40 @@
-# MUSIC_HISTORY_2
-Music History Part 2
+# Music History - Version 2.0
 
-Setup
+A 2.0 version of Music History where javascript arrays, loops, and innerHTML to show the Music I Love!
 
-- [ ] Create a branch in your musichistory repository named version2.
+## Table of Contents
 
-- [ ] Switch to that branch.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
+
+## Installation
+
+Download to your project directory:
+
+```hs
+curl -LO http://git.io/Xy0Chg
+git add README.md
+git commit -m "Use README Boilerplate"
+```
+
+## Usage
+- Name
+- Description
+- Installation instructions
+- Usage instructions
+- Support instructions
+- Contributing instructions
+
+## Support
+
+Please [open an issue](https://github.com/helanan/MUSIC_HISTORY_2/issues/new) for support.
+
+## Contributing
+
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/helanan/MUSIC_HISTORY_2/compare/).
+
 
 Requirements
 
