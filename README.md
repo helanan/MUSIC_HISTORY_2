@@ -58,5 +58,3 @@ Once you've completed all requirements, you can merge your branch into the maste
 4. Push the merged master branch to Github: `git push origin master`.
 
 Feel free to reach out if you have any questions or need further assistance. Enjoy showcasing your music collection!
-
-Feel free to make any adjustments you see fit, Helana. If you have more questions or need further assistance, just let me know!
